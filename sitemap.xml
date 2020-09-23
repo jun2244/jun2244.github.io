@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jun2244.github.io/cv/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jun2244.github.io/honors/</loc>
     <lastmod>2020-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jun2244.github.io/honors-copy/</loc>
+    <loc>https://jun2244.github.io/honors-ch/</loc>
     <lastmod>2020-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jun2244.github.io/cv/</loc>
+    <loc>https://jun2244.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jun2244.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,15 +33,15 @@
   </url>
   
   <url>
+    <loc>https://jun2244.github.io/</loc>
+  </url>
+  
+  <url>
     <loc>https://jun2244.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://jun2244.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jun2244.github.io/</loc>
   </url>
   
 </urlset>
